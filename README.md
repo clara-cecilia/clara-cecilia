@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1>😁💻 Clara Cecília</h1>
   <h3>Desenvolvedora Fullstack</h3>
 
@@ -51,7 +51,12 @@ Atualmente:
 ---
 
 ### 📊 Estatísticas
+
+<div align="center">
   <a href="https://github.com/clara-cecilia">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clara-cecilia&layout=compact&theme=tokyonight&langs_count=8&custom_title=Tecnologias mais usadas"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clara-cecilia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/clara-cecilia">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clara-cecilia&layout=compact&theme=tokyonight&langs_count=8&custom_title=Tecnologias%20mais%20usadas"/>
   </a>
 </div>
