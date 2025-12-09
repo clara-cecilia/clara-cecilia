@@ -64,17 +64,8 @@ Minha trajetória une o desenvolvimento de software robusto com a inovação da 
 
 ---
 
-### 📊 Estatísticas
+### 🧩 Minhas Contribuições
 
 <div align="center">
-  <a href="https://github.com/clara-cecilia">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=clara-cecilia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
-
-<div align="center">
-  <br/>
-  <a href="https://instagram.com/claracecilia_codes">
-    <img src="https://img.shields.io/badge/Instagram-@claracecilia__codes-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=clara-cecilia&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
