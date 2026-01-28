@@ -10,7 +10,7 @@
     <a href="mailto:claracecilia231@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://www.linkedin.com/in/seu-linkedin-aqui">
+    <a href="https://www.linkedin.com/in/clara-cec%C3%ADlia/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="LINK_DO_SEU_PORTFOLIO">
