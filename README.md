@@ -7,13 +7,13 @@
   </p>
 
   <p>
-    <a href="mailto:claracecilia231@gmail.com">
+    <a href="mailto:claracecilia231@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://www.linkedin.com/in/clara-cec%C3%ADlia/">
+    <a href="https://www.linkedin.com/in/clara-cec%C3%ADlia/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://clara-cecilia.github.io/Portifolio/">
+    <a href="https://clara-cecilia.github.io/Portifolio/" target="_blank">
       <img src="https://img.shields.io/badge/Portfólio-Web-236ad3?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
     </a>
   </p>
